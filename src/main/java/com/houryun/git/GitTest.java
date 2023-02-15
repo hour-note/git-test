@@ -10,6 +10,7 @@ public class GitTest {
         System.out.println("hot-fix test");
 
         System.out.println("小时网络科技！");
+        System.out.println("12345");
     }
 
     public void test() {
